@@ -1,0 +1,18 @@
+.footer {
+    text-align: center;
+    background-color: antiquewhite;
+    height: 50px;
+    margin-top: 40px;
+}
+.dash {
+    width: 15%;
+    height: 150px;
+    /*background-color: red;*/
+    margin: 1%;
+    display: inline-flex;
+    
+    justify-content: center;
+    padding: 55ppx;
+    border: 2px solid black;
+    border-radius: 20%;
+}
